@@ -52,5 +52,5 @@ The dashboard was created in Power BI using the Northwind Traders dataset to ana
 
 ## Project Files
 
-- Northwind Dashboard PDF
-- Power BI (.pbix) File
+- Northwind Dashboard PDF: [project G13.pdf](https://github.com/user-attachments/files/28887600/project.G13.pdf)
+- Dashboard Screenshot: <img width="502" height="842" alt="Screenshot 2026-06-12 214950" src="https://github.com/user-attachments/assets/bbfc311b-edc1-4dc8-ab3d-62eca0c06eb0" />
